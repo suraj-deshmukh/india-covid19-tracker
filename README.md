@@ -19,3 +19,7 @@ Below screenshot shows how the information is displayed in the dashboard state w
 
  3. Stacked Bar Chart representing the Confirmed cases progress pattern with 3 sub categories as Active, Recovered and Deaths. For eg. If you want to see only Active cases pattern then just disable the other two i.e Recovered and Deaths by clicking on respective legents (once you click on them, there color would turn into gray).
  ![screenshot](https://github.com/suraj-deshmukh/india-covid19-tracker/blob/master/screenshots/india2.png) 
+
+### Data Source
+* [Covid19India](https://pypi.org/project/Covid19India/): For India and its States/UT wise details
+* [NovelCovid](https://github.com/NovelCOVID/API): For India's historical data
